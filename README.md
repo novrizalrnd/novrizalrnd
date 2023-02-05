@@ -10,7 +10,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "Novrizal Roynanda"
         self.role = "Data Analyst"
-        self.language_spoken = [in_ID", "en_US"]
+        self.language_spoken = ["in_ID", "en_US"]
 
     def say_hi(self):
         print("Thank you for stopping by! It’s been a pleasure getting to know you.")
