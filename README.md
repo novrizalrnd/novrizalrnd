@@ -13,7 +13,7 @@ class DataAnalyst:
         self.language_spoken = ["in_ID", "en_US"]
 
     def say_hi(self):
-        print("Thank you for stopping by! It’s been a pleasure getting to know you.")
+        print("Thank you for stopping by. It’s been a pleasure getting to know you!")
 
 
 me = DataAnalyst()
