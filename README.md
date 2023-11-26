@@ -51,6 +51,7 @@ me.say_hi()
 <img align="left" alt="MYSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="postgreSQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Microsoft Excel" width="50px" src="https://raw.githubusercontent.com/melanieshi0120/melanieshi0120/master/images/excel.png" />
+<img align="left" alt="Microsoft SQL Server" width="50px" src="https://github.com/novrizalrnd/novrizalrnd/assets/117376321/5c16f05b-5c28-4ca1-ac39-f139d3a1ec22" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
