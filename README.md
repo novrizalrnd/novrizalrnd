@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there!
 
 ```python
 #!/usr/bin/python
@@ -20,7 +20,7 @@ me = DataAnalyst()
 me.say_hi()
 ```
 
-## 👨 Find me at
+## Find me at
 
 [<img align="left" alt="LinkedIn" width="125" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original-wordmark.svg" />]( http://www.linkedin.com/in/novrizalroynanda)
 <br />
