@@ -65,6 +65,6 @@ me.say_hi()
 <img align="left" alt="Tableau" width="60px" src="https://raw.githubusercontent.com/melanieshi0120/melanieshi0120/master/images/tableau.png" />
 <img align="left" alt="Google Data Studio" width="75px" src="https://raw.githubusercontent.com/melanieshi0120/melanieshi0120/master/images/google_data_studio.png" />
 <img align="left" alt="Google Analytics" width="75px" src="https://raw.githubusercontent.com/melanieshi0120/melanieshi0120/master/images/google_analytics.png" />
-<img align="left" alt="AWS" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="MongoDB" width="65px" src="https://github.com/novrizalrnd/novrizalrnd/assets/117376321/f0ec6d28-7669-4faf-81c4-1ea7677766a4" />
 <img align="left" alt="Linux" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
 
